@@ -2,11 +2,11 @@
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
 <div align="center">I'm Salman, I’m currently a student at king Abdulaziz universit CS 👨‍💻</div>  
--🔭  I'm currently looking for work opportunity and improving myself
--👯 I’m looking to collaborate on any kind of great project
--🌱 I’m currently learning Software Engineering
--💬 Ask me about anything you want
--📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/salman-alhodaly-577034220)
+🔭  I'm currently looking for work opportunity and improving myself<bar>
+👯 I’m looking to collaborate on any kind of great project<bar>
+🌱 I’m currently learning Software Engineering<bar>
+💬 Ask me about anything you want<bar>
+📫 How to reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/salman-alhodaly-577034220)
 
 
 
