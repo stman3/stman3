@@ -4,7 +4,7 @@
 <div align="center">I'm Salman, I’m currently a student at king Abdulaziz universit CS 👨‍💻</div>  
 🔭  I'm currently looking for work opportunity and improving myself<br>👯 I’m looking to collaborate on any kind of great project<br>🌱 I’m currently learning Software Engineering<br>💬 Ask me about anything you want<br>
 ## 📫 How to reach me:
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/966599096268)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/salman-alhodaly-577034220) 
 
 
 ## 🌐 Socials:
